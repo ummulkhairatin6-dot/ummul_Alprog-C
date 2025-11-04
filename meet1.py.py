@@ -1,4 +1,5 @@
-print("Nama saya amrina rosyada")
-print("Saya berasal dari lombok timur")
+print("Nama saya ummul khairatin")
+print("Saya berasal dari bima")
 print("umur saya 18 tahun")
-print("Hoby saya masak")
+
+print("Hoby saya memasak")
