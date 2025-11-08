@@ -1,5 +1,5 @@
 nama= ummul khairatin
 nim= 25241087
 
-print("nama dari nama adalah:",nama)
-print("nim dari nim adalah:",nim)
+print("nama dari nama adalah:",ummul khairatin)
+print("nim dari nim adalah:",25241087)
